@@ -13,5 +13,5 @@ This package adds the following fields to each menu item on your site:
 To install, run the following in your Sage 9- and Sage 10-based theme directory:
 
 ```
-composer require "mwdelaney/sage-acf-menu-icons".
+composer require "rebelinteractivegroup/sage-acf-menu-icons".
 ```
